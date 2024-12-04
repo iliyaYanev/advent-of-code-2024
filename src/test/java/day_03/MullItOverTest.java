@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 import util.InputFileContents;
 
 public class MullItOverTest {
+
     private static final String FILE_CONTENTS;
 
     static {

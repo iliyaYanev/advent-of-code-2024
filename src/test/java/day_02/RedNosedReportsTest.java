@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 import util.InputFileContents;
 
 public class RedNosedReportsTest {
+
     private static final List<String> FILE_CONTENTS;
 
     static {
