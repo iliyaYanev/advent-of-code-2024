@@ -27,7 +27,7 @@ public class CeresSearchTest {
 
     @Test
     public void ceresSearchPartTwoTest() {
-        long result = CeresSearch.masXCount(FILE_CONTENTS);
+        long result = CeresSearch.masXSearch(FILE_CONTENTS);
 
         assertEquals(2048, result);
     }

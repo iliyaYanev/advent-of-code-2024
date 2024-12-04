@@ -17,7 +17,7 @@ public class CeresSearch {
         return xmasCount;
     }
 
-    public static long masXCount(String input) {
+    public static long masXSearch(String input) {
         long masXCount = 0;
         char[][] charInput = convertToCharArray(input);
 
