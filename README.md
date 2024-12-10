@@ -11,3 +11,4 @@
 * ##### [Bridge Repair](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_07) **-** [Backtracking](https://www.geeksforgeeks.org/introduction-to-backtracking-2/)
 * ##### [Resonant Collinearity](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_08) **-** [Sweep Line ](https://en.wikipedia.org/wiki/Sweep_line_algorithm)
 * ##### [Disk Fragmenter](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_09) **-** [Greedy Algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
+* ##### [Hoof It](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_10) **-** [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
