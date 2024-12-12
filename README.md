@@ -13,3 +13,4 @@
 * ##### [Disk Fragmenter](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_09) **-** [Greedy Algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
 * ##### [Hoof It](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_10) **-** [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
 * ##### [Plutonian Pebbles](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_11) **-** [State Transition, Map Reduce](https://en.wikipedia.org/wiki/MapReduce)
+* ##### [Garden Groups](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_12) **-** [Flood Fill](https://www.geeksforgeeks.org/flood-fill-algorithm/)
