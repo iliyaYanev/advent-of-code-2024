@@ -20,14 +20,14 @@ public class RedNosedReportsTest {
     }
 
     @Test
-    public void testRedNosedReportsPartOneTest() {
+    public void redNosedReportsPartOneTest() {
         long result = RedNosedReports.safeReports(FILE_CONTENTS);
 
         assertEquals(369, result);
     }
 
     @Test
-    public void testRedNosedReportsPartTwoTest() {
+    public void redNosedReportsPartTwoTest() {
         long result = RedNosedReports.safeWithDampener(FILE_CONTENTS);
 
         assertEquals(428, result);
