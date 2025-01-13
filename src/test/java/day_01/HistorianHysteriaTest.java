@@ -23,13 +23,13 @@ public class HistorianHysteriaTest {
     public void historianHysteriaPartOneTest() {
         long result = HistorianHysteria.totalDistance(FILE_CONTENTS);
 
-        assertEquals(result, 2000468);
+        assertEquals(2000468, result);
     }
 
     @Test
     public void historianHysteriaPartTwoTest() {
         long result = HistorianHysteria.similarityScore(FILE_CONTENTS);
 
-        assertEquals(result, 18567089);
+        assertEquals(18567089, result);
     }
 }
