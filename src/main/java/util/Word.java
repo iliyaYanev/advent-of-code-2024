@@ -33,7 +33,7 @@ public class Word {
 
         for (int r = 0; r < word.size(); r++) {
             for (int c = 0; c < word.get(r).length(); c++) {
-                for (var d : DIRS) {
+                for (Direction d : DIRS) {
                     if (match(XMAS, r, c, d.dr(), d.dc())){
                         xmases++;
                     }
