@@ -6,8 +6,8 @@ public class Word {
     private static final char[] XMAS = "XMAS".toCharArray();
     private static final char[] MAS = "MAS".toCharArray();
 
-    private static final List<Direction> DIRS = List.of(new Direction(1, 0), new Direction(1, 1), new Direction(0, 1), new Direction(-1, 1),
-        new Direction(-1, 0), new Direction(-1, -1), new Direction(0, -1), new Direction(1, -1));
+    private static final List<WordDirection> DIRS = List.of(new WordDirection(1, 0), new WordDirection(1, 1), new WordDirection(0, 1), new WordDirection(-1, 1),
+        new WordDirection(-1, 0), new WordDirection(-1, -1), new WordDirection(0, -1), new WordDirection(1, -1));
 
     private final List<String> word;
 
@@ -33,7 +33,7 @@ public class Word {
 
         for (int r = 0; r < word.size(); r++) {
             for (int c = 0; c < word.get(r).length(); c++) {
-                for (Direction d : DIRS) {
+                for (WordDirection d : DIRS) {
                     if (match(XMAS, r, c, d.dr(), d.dc())){
                         xmases++;
                     }
