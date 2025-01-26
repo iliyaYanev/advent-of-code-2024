@@ -8,3 +8,4 @@
 * ##### [Ceres Search](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_04) **-** [Linear search](https://en.wikipedia.org/wiki/Linear_search)
 * ##### [Print Queue](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_05) **-** [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 * ##### [Guard Gallivant](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_06) **-** [DFS](https://en.wikipedia.org/wiki/Depth-first_search)
+* ##### [Bridge Repair](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_07) **-** [Recursive Combinations](https://www.baeldung.com/cs/k-combinations-recursive-iterative-enumeration)
