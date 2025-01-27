@@ -16,3 +16,4 @@
 * ##### [Garden Groups](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_12) **-** [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 * ##### [Claw Contraption](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_13) **-** [Diophantine Equation](https://en.wikipedia.org/wiki/Diophantine_equation)
 * ##### [Restroom Redoubt](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_14) **-** [Collision Detection](https://en.wikipedia.org/wiki/Collision_detection)
+* ##### [Warehouse Woes](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_15) **-** [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
