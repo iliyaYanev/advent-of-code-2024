@@ -15,3 +15,4 @@
 * ##### [Plutonian Pebbles](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_11) **-** [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain)
 * ##### [Garden Groups](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_12) **-** [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 * ##### [Claw Contraption](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_13) **-** [Diophantine Equation](https://en.wikipedia.org/wiki/Diophantine_equation)
+* ##### [Restroom Redoubt](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_14) **-** [Collision Detection](https://en.wikipedia.org/wiki/Collision_detection)
