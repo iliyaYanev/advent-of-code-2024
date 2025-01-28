@@ -21,3 +21,4 @@
 * ##### [Chronospatial Computer](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_17) **-** [Brute-Force Search](https://en.wikipedia.org/wiki/Brute-force_search)
 * ##### [RAM Run](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_18) **-** [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)
 * ##### [Linen Layout](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_19) **-** [Memoization](https://en.wikipedia.org/wiki/Memoization)
+* ##### [Race Condition](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_20) **-** [Manhattan Distance](https://en.wikipedia.org/wiki/Taxicab_geometry)
