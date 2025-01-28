@@ -18,3 +18,4 @@
 * ##### [Restroom Redoubt](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_14) **-** [Collision Detection](https://en.wikipedia.org/wiki/Collision_detection)
 * ##### [Warehouse Woes](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_15) **-** [State Space Search](https://en.wikipedia.org/wiki/State_space_search)
 * ##### [Reindeer Maze](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_16) **-** [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+* ##### [Chronospatial Computer](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_17) **-** [Brute-Force Search](https://en.wikipedia.org/wiki/Brute-force_search)
