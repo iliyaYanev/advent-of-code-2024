@@ -23,3 +23,4 @@
 * ##### [Linen Layout](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_19) **-** [Memoization](https://en.wikipedia.org/wiki/Memoization)
 * ##### [Race Condition](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_20) **-** [Manhattan Distance](https://en.wikipedia.org/wiki/Taxicab_geometry)
 * ##### [Keypad Conundrum](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_21) **-** [Recursive Memoization](https://dev.to/ionabrabender/memoization-and-recursion-228f)
+* ##### [Monkey Market](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_22) **-** [Hash Function](https://en.wikipedia.org/wiki/Hash_function)
