@@ -25,3 +25,4 @@
 * ##### [Keypad Conundrum](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_21) **-** [Recursive Memoization](https://dev.to/ionabrabender/memoization-and-recursion-228f)
 * ##### [Monkey Market](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_22) **-** [Hash Function](https://en.wikipedia.org/wiki/Hash_function)
 * ##### [LAN Party](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_23) **-** [Graph Connected Components](https://www.baeldung.com/cs/graph-connected-components)
+* ##### [](https://github.com/iliyaYanev/advent-of-code-2024/tree/master/src/main/java/day_24) **-** [A* Search](https://en.wikipedia.org/wiki/A*_search_algorithm)
