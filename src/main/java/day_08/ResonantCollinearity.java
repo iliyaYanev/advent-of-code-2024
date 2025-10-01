@@ -41,7 +41,7 @@ public class ResonantCollinearity {
                 char c = grid[i][j];
 
                 if (c != '.') {
-                    antennas.computeIfAbsent(c, k -> new ArrayList<>()).add(new Point(i, j));
+                    antennas.computeIfAbsent(c, _ -> new ArrayList<>()).add(new Point(i, j));
                 }
             }
         }

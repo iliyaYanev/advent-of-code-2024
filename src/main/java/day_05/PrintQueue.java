@@ -39,7 +39,7 @@ public class PrintQueue {
             String[] parts = line.split("\\|");
 
             rules.computeIfAbsent(
-                Integer.parseInt(parts[0]), k -> new ArrayList<>())
+                Integer.parseInt(parts[0]), _ -> new ArrayList<>())
                 .add(Integer.parseInt(parts[1]));
         }
 

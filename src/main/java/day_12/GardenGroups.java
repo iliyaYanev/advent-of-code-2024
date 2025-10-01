@@ -32,7 +32,7 @@ public class GardenGroups {
                 char type = grid[y][x];
                 Point point = new Point(x, y);
 
-                regions.computeIfAbsent(type, k -> new ArrayList<>());
+                regions.computeIfAbsent(type, _ -> new ArrayList<>());
                 List<Region> regionsToMerge = new ArrayList<>();
 
                 for (Region region : regions.get(type)) {

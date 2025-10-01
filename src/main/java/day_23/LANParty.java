@@ -67,8 +67,8 @@ public class LANParty {
         for (String line : input) {
             String[] connection = line.split("-");
 
-            networkMap.computeIfAbsent(connection[0], k -> new HashSet<>()).add(connection[1]);
-            networkMap.computeIfAbsent(connection[1], k -> new HashSet<>()).add(connection[0]);
+            networkMap.computeIfAbsent(connection[0], _ -> new HashSet<>()).add(connection[1]);
+            networkMap.computeIfAbsent(connection[1], _ -> new HashSet<>()).add(connection[0]);
         }
 
         return networkMap;
